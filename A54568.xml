@@ -1,0 +1,617 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petitioning-comet, or, A Brief chronology of all the famous comets and their events that have happen'd from the birth of Christ, to this very day : together with a modest enquiry into this present comet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54568</idno>
+            <idno type="STC">Wing P1864</idno>
+            <idno type="STC">ESTC R33389</idno>
+            <idno type="EEBO-CITATION">13286877</idno>
+            <idno type="OCLC">ocm 13286877</idno>
+            <idno type="VID">98819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petitioning-comet, or, A Brief chronology of all the famous comets and their events that have happen'd from the birth of Christ, to this very day : together with a modest enquiry into this present comet.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nat. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print showthrough with loss of text.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Comets --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="4" facs="tcp:98819:1"/>
+            <pb facs="tcp:98819:1" rendition="simple:additions"/>
+            <p>THE Petitioning-COMET: Or, a Brief CHRONOLOGY Of all the Famous COMETS, And their EVENTS, That have happen'd from the Birth of CHRIST, to this very day. Together with a Modeſt Enquiry into this preſent COMET.</p>
+            <q>
+               <p>Cum Deus puniturus eſt Gentem vel Urbem, prodi<g ref="char:EOLhyphen"/>giis id prius ſolet ſignificare.</p>
+               <bibl>Herodot. lib. 6.</bibl>
+            </q>
+            <figure>
+               <figDesc>astronomical device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by NAT. THOMPSON, next door to the <hi>Croſs-Keys</hi> in <hi>Fetter-lane,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98819:2" rendition="simple:additions"/>
+            <pb facs="tcp:98819:2"/>
+            <head>A LETTER out of the Country, FROM THE AUTHOR to the PRINTER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt receſs from <hi>London,</hi> I have wholly devoted my ſelf to Contemplation; which is as natural to a Country life, as Flattery to the Court, Debauchery to the Town, Cozening to the City, and Fawning to the Clergy. Now of this Contemplation I have ſpent ſome part in the Evenings, about obſerving the Motion and Progreſs of this ſo-much-talkt-of COMET, and in this encloſed have ſent you the Reſult of my Thoughts concerning it, together with a Meteorological Com<g ref="char:EOLhyphen"/>pendium of all the moſt remarkable BLAZING-STARS, that have been at any time conſpicuous from the Nativity of Chriſt, to this very day: as alſo the Events and Misfortunes both to Kings and Kingdoms, that have attended each of thoſe Meteors. This preſent Comet (it's true) is of a menacing Aſpect, but if the <hi>New Parliament</hi> (for whoſe Convention ſo many good men pray) continue long to ſit, I fear not but the STAR will loſe its virulence and malignancy, or at leaſt its portent be averted from this our Nation; which being the humble requeſt to God of all good men, makes me thus entitle it, <hi>A Petitioning-Comet.</hi> Now as for you, <hi>my old Friend,</hi> I muſt confeſs the late Noiſe abroad of your being a <hi>Papiſt,</hi> or at leaſt <hi>Popiſhly affected,</hi> made me at firſt heſitate whether I might with ſafety entruſt any more Papers with you, or proceed in our old Acquaintance as for<g ref="char:EOLhyphen"/>merly; but when upon mature deliberation I recollected all your former Letters and Diſcourſes, as well as examined what ſeveral eminent Pieces againſt <hi>Popery</hi> you have publiſh'd, even ſuch as would be a damning Sin in the very <hi>Pope</hi> himſelf to diſpenſe with, after this I ſoon ſatisfy'd my Reaſon with the abſurdity of the Report; and from that time, examined every one of your Adverſaries <hi>Intelligences,</hi> with as great expectation to find that the Emperor of <hi>Turky</hi> was turn'd a <hi>Chriſtian,</hi> and the <hi>Pop</hi> a <hi>Proteſtant.</hi>
+            </p>
+            <pb n="2" facs="tcp:98819:3"/>
+            <p>As force and vertue of the Sun, into the higheſt Region of the Air, is there inflamed, partly by the Element of Fire on which it bordereth, and partly by the motion of the Heavens which hurleth it about; ſo as there is the ſame matter of an Earthquake, Wind, Lightning, and a Comet: if it be impriſon'd in the bowels of the Earth, it cauſeth an <hi>Earthquake;</hi> if it aſcend to the middle Region of the Air, and from thence repell'd, it pro<g ref="char:EOLhyphen"/>duceth <hi>Wind;</hi> if it enters that Region, and be there environed with a thick Cloud, it ſends forth <hi>Lightning;</hi> but if it paſſes that Region, it then becomes a <hi>Comet,</hi> or ſome other fiery Meteor, in caſe the matter be not ſufficiently capable thereof.</p>
+            <p>Now of theſe <hi>Ignita mixta,</hi> ſome continue a longer, and ſome a ſhorter time; ſeven days is the leaſt, but ſome have been viſible ſix months toge<g ref="char:EOLhyphen"/>ther; all which happeneth according to the ſcarcity or plenty of the matter whereof it conſiſteth. In a Comet there are two things remarka<g ref="char:EOLhyphen"/>ble; the <hi>colour,</hi> and the <hi>faſhion.</hi>
+            </p>
+            <p>As for their <hi>colours,</hi> they are uſually but of three ſorts: 1. If the matter be thin, then the colour is white: 2. If reaſonably thick, then the colour is ruddy, reſembling Fire: and 3. If very thick, then their colour is like the burning of Brimſtone, or of a blue appearance. Yet nevertheleſs they are not always ſo exactly of theſe three colours, without any different tincture, but as near them as the diſpoſing of their matter will admit; ſo that inſtead of white, we ſometimes have them of a yellowiſh colour; and inſtead of a blue, of a watchet or greeniſh colour, and the like.</p>
+            <p>In the next place, as for their <hi>ſhapes</hi> or <hi>forms,</hi> (if we ſtand upon a cu<g ref="char:EOLhyphen"/>rious examination of them) they may be manifold, however <hi>Ariſtotle</hi> re<g ref="char:EOLhyphen"/>ſolves them into two, all their other ſhapes being dependant on theſe two: For firſt, either they ſeem round, with Beams about them, which cometh to paſs when the Matter is thin on the edges, and thick every where elſe; or ſecondly, they ſeem as it were with a Beard or Tail, which happeneth when it is but meanly thick towards ſome one ſide or other, and rather long than round. But ſome would have theſe two faſhions, to be three, becauſe the Tail hangs downward ſometimes, as well as ſide-long; and ſo there is by this means <hi>Stella crinita, Stella caudata,</hi> and <hi>Stella barbata:</hi> concerning which, I am not ſolicitous.</p>
+            <p>Now concerning the Prognoſtications of ſuch Meteors, many and vari<g ref="char:EOLhyphen"/>ous are the opinions of all Meteorologiſts; whether Comets or Blazing-Stars be generally of ſuch terrible effects,<note place="margin">
+                  <hi>Browns</hi> Vulg Err. l. 6. c 14</note> as elder times have conceiv'd them, is (ſaith Dr. <hi>Brown</hi>) very uncertain: for ſince it is found that many from whence theſe predictions are drawn, have been above the Moon, why may they not be qualified from their Poſitions and Aſpects which they hold with Stars of favourable natures? or why, ſince they may be conceived to ariſe from the <hi>Effluviums</hi> of other Stars, may they not retain the benignity of their Originals? or ſince the natures of the fixed Stars are Aſtrologically differenced by the Planets, and are eſteem'd Martial or Jovial, according to the colour, whereby they anſwer theſe Planets; why although the red Comets do carry the portenſions of <hi>Mars,</hi> ſhould not the brightly white be of the influence of <hi>Jupiter</hi> or <hi>Venus,</hi> an<g ref="char:EOLhyphen"/>ſwerably unto <hi>Cor Scorpii</hi> and <hi>Arcturus,</hi> is not abſurd to doubt. There<g ref="char:EOLhyphen"/>fore ſome are of opinion, that this ſuperſtitious dread of Comets may poſſi<g ref="char:EOLhyphen"/>bly
+<pb n="3" facs="tcp:98819:3"/>proceed from ſome terrour ſtruck into mens thoughts by reaſon of their rare and unexpected appearance, rather than from any certain ground of knowledge of the reaſon of the thing it ſelf; as if all but the hiſtory of them, were only uncertain conjectures. For (ſay they) although it may be true, that after ſuch Comets have appear'd, ſtrange things have happen'd, yet is there no more connexion of cauſality between the Co<g ref="char:EOLhyphen"/>met, and the deaths of Great men, or Alterations of Government and Religion, than (as the ingenious Sir <hi>Thomas More</hi> inſtances) that the building of <hi>Tenterden</hi> Steeple was (as the old Sage would have it) the cauſe of <hi>Goodwin Sands;</hi> becauſe the one appear'd preſently upon the building of the other. And that the Almighty (they ſay) hath given theſe Signs in the Celeſtial or Aerial Regions, not only to affrighten ſuch mor<g ref="char:EOLhyphen"/>tals as pretend not but to be ignorant what they are; nor only to exerciſe the curioſity of others, who affect an enquiry into ſuch things; but alſo to puzzle (it may be) and diſcover the vanity of thoſe, who would be thought ignorant of nothing, be it never ſo much above them; and who chooſe rather to adventure the after-cenſure of Folly, then quit the Ambi<g ref="char:EOLhyphen"/>tion and vain-glory of being thought Prophets, if the event chance to anſwer their prediction, by interpreting the portent of thoſe things which fore-ſignifie (it may be) nothing, or at beſt they know not what: For (ſay they) no certain knowledge, or ſcarce a ſatisfactory probability, ap<g ref="char:EOLhyphen"/>pearing of <hi>what a thing is,</hi> who ſhall pretend to know <hi>what it ſignifies;</hi> when no one would think, but <hi>that</hi> ſhould (in reaſon) be known <hi>before,</hi> if not more <hi>eaſily</hi> than <hi>this.</hi>
+            </p>
+            <p>Accordingly (ſaith Dr. <hi>Hakewell</hi>) the late Lord Privy-Seal,<note place="margin">Apolog. l. <hi>2.</hi> ſect. <hi>6.</hi>
+               </note> and Earl of <hi>Northampton,</hi> in his <hi>Defenſative againſt the poiſon of ſuppoſed Prophecies,</hi> ſheweth: that as Comets do not always fore-run ſuch Events, ſo neither do ſuch Events always follow upon the appearing of Comets: ſome in<g ref="char:EOLhyphen"/>ſtances he produceth of Comets, which brought with them ſuch abun<g ref="char:EOLhyphen"/>dance of all things, as ſtories have recorded it for Monuments and Mira<g ref="char:EOLhyphen"/>cles to poſterity: And the like, ſaith he, could I ſay of others, <hi>An. Dom.</hi> 1555, 1556, 1557, 1558. after all which years nothing happen'd that ſhould drive a man to ſeek out any cauſe above the common reach: and therefore I allow the diligence of <hi>Gemma Friſius,</hi> taking notice of as many good, as bad effects, which have ſucceeded after Comets. Moreover he tells us, that <hi>Pecuer</hi> a great Mathematician of <hi>Germany,</hi> prognoſticated upon the laſt Comet before the writing of his Defenſative, that mens Bo<g ref="char:EOLhyphen"/>dies ſhould be burnt up with heat; But how fell it out? we had not (ſaith he) a more unkind Summer for many years, in reſpect of extraor<g ref="char:EOLhyphen"/>dinary Cold; nor was there any inclination to War, or any Prince de<g ref="char:EOLhyphen"/>ceas'd at that time; but on the contrary, the Plague which had raged before in <hi>Lombardy,</hi> as God would have it, ceaſed at the riſing of that Comet. Queen <hi>Elizabeth</hi> (1558.) being then at <hi>Richmond,</hi> and being diſſwaded from looking on a Comet which did then appear, made anſwer, <hi>Jacta eſt alea,</hi> the Dice are thrown; thereby intimating, that the pre<g ref="char:EOLhyphen"/>order'd providence of God, was above the influence of any Star or Co<g ref="char:EOLhyphen"/>met. Neither (ſaith he) do I remember that any Comet appear'd before her death, as at her entrance there did; nor before the deceaſe of Prince <hi>Henry,</hi> nor of <hi>Henry</hi> the Great of <hi>France,</hi> all three famous Princes.
+<pb n="4" facs="tcp:98819:4"/>
+               <hi>Charlemagne</hi> profeſs'd, that he fear'd not the ſign of a Blazing-Star, but the great and potent Creator thereof; and ſo much fear conſiſts both with Chriſtianity, and prudence:</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>Alſo <hi>Manilius:</hi>
+            </p>
+            <q>Nunquam futilibus excanduit ignibus aether.</q>
+            <p>That Comets of themſelves are miſchievous, I diſown; yet how knows any man but that they may be ſet there as menaces of the Almighty's Anger? The common opinion hath been, that New Stars, Comets, and the like, either as ſigns or cauſes, or both, have always prognoſticated ſome dreadful misfortune to the World, as outragious Winds, extraordi<g ref="char:EOLhyphen"/>nary Drought, Dearth, Peſtilence, Wars, death of Princes, <hi>&amp;c.</hi> Accord<g ref="char:EOLhyphen"/>ingly we find the wiſe men of the Eaſt prophecying, that our Saviour <hi>(at whoſe Birth a new Star appear'd)</hi> ſhould bring deſtruction upon the Kingdom of the <hi>Jews,</hi> his Native Country. But that which above all others does moſt influence me, is the experience of former Ages, wherein 'twas rarely obſerv'd that any terrible Comet appear'd, without an effect altogether as terrible. There is no general Rule without an Exception; and as we muſt not define Luxury to be a Vertue in a Prince, becauſe ſome few extravagant Princes have lived and died happily beyond ex<g ref="char:EOLhyphen"/>pectation; ſo neither muſt we eſteem a Comet the leſs ominous, becauſe one in a hundred has proved a Bleſſing to the people, although fatal to <hi>Nero.</hi>
+            </p>
+            <p>There are many Authors who have wrote concerning Comets, ſome in particular Treatiſes upon that ſubject, and ſome only by the by: as <hi>Joſephus, Manilius, Xiphiline, Pliny, Seneca, Suetonius, Euſebius, Nicepho<g ref="char:EOLhyphen"/>rus, Pontanus, Amerbachius, Niphus, Apiarius, Funccius, Mylichius, Ca<g ref="char:EOLhyphen"/>rion, Cufrinianus, Sueſſanus, Peucerus, Camerarius, Aretius, Garcaeus, Grimi<g ref="char:EOLhyphen"/>naeus, Praetorius, Daſypodius, Latomus, Celichius, Irenaeus, Zeiſius, Nage<g ref="char:EOLhyphen"/>lius, Keckermannus, Puteanus, Lycoſthenes, de prodigiis ab orbe condite,</hi> and others; out of whom, but more eſpecially out of <hi>Alstedius</hi> his Chrono<g ref="char:EOLhyphen"/>logy, I have perfected this following Breviary of all the Comets that have occurr'd from <hi>Chriſt</hi>'s time, to this very day. As for thoſe that happen'd before <hi>Chriſt,</hi> Hiſtory mentions not above ten or eleven, and therein they vary: however the moſt eminent of them were that which happen'd <hi>A. M.</hi> 3519. before the <hi>Peloponneſian</hi> War; and thoſe which preceded <hi>Julius Caeſar</hi>'s death, whereof <hi>Virgil</hi> ſpeaks:</p>
+            <q>
+               <l>Non alias caelo ceciderunt plura ſereno</l>
+               <l>Fulgura, nec diri toties arſere Cometae.</l>
+            </q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. Ch. </seg>13</label> A Comet was ſeen, at which time <hi>Quintilius Varus</hi> was ſlain by the <hi>Ger<g ref="char:EOLhyphen"/>mans,</hi> under the conduct of <hi>Arminius.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. Ch. </seg>16</label> The death of <hi>Auguſtus Caeſar</hi> was foretold by ſeveral bloudy Comets.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. Ch. </seg>56</label> Being the year that <hi>Claudius</hi> died, not only a Comet was ſeen, but alſo it rained Bloud: as if one had portended the death of <hi>Claudius,</hi> and the other the Reign of his wicked ſucceſſor <hi>Nero;</hi> who murder'd his Wife, his Mother, and his Schoolmaſter <hi>Seneca,</hi> beſides the many other robberies and exorbitances he committed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. Ch. </seg>57</label> Was ſeen a Comet and 3 Suns, to uſher in the bloudy Reign of <hi>Nero.</hi>
+            </p>
+            <pb n="5" facs="tcp:98819:4"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>62</label> Appear'd another Comet that laſted 6 months, which predicted the tragical end of <hi>Nero,</hi> and ſo proved fatal to the Prince, although favou<g ref="char:EOLhyphen"/>rable to the people.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>66</label> A Comet alſo raged for 6 months together, which was ſucceeded by a terrible Earthquake, wherewith <hi>Laodicea, Hierapolis,</hi> and the Inhabitants of <hi>Coloſſis</hi> in <hi>Natolia</hi> ſuffer'd much.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>68</label> A Comet like a flaming Sword was ſeen hanging over the City of <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> in <hi>Judea,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>69</label> and elſewhere, which portended the deſtruction of that holy City.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>73</label> Appear'd a Comet, which is call'd <hi>Acontia,</hi> from the reſemblance it hath of a Dart.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>77</label> Was ſeen that Comet, which <hi>Titus</hi> the Emperor deſcrib'd in Verſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>78</label> A Comet was beheld about <hi>Cyprus</hi> and other places, where ſoon after many Cities were ſhaken with a dreadful Earthquake.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>79</label> Terrible Winds, Earthquakes, and Plague, raging at <hi>Rome,</hi> ſucceeded a Comet; which Comet being ſhew'd to <hi>Veſpaſian,</hi> he jeſtingly ſaid, <hi>This buſhy Star belongs not to me, but the</hi> Parthian <hi>King, Ipſe enim comatus est, ego vero calvus ſum:</hi> however <hi>Veſpaſian</hi> ſoon after died, notwithſtanding his Quibble.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>181</label> Was ſeen a Comet, which reſembling a Beard, was call'd <hi>Pogonias.</hi> At this time the Temple of Peace being burnt, many Wars and Troubles followed at <hi>Rome,</hi> which was imputed to the wicked Life of <hi>Commodus.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>190</label> A Comet boded the burning of the Capitol, as alſo War and Peſtilence.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>195</label> In the time of <hi>Severus</hi> a Comet was ſeen, it was the opinion at <hi>Rome,</hi> that it portended ſome great Evil.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>323</label> Divers Comets preceeded the peſtilent Hereſie of <hi>Arius.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>377</label> A Comet foreran that almoſt univerſal Earthquake, when the Sea, tranſgreſſing its bounds, devoured many Cities and people.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>383</label> Appear'd a Comet like <hi>Lucifer,</hi> which from its reſemblance of a Sword was named <hi>Xiphias,</hi> and beſides many other Miſchiefs, portended the Inva<g ref="char:EOLhyphen"/>ſion of <hi>Eugenius.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>389</label> The ſame <hi>Luciferan</hi> Comet was likewiſe ſeen.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>405</label> Under <hi>Arcadius</hi> a Comet was ſeen, which ſignified his death.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>410</label> A Comet appear'd like a Sword, which portended many Evils. About this time <hi>Rome</hi> was beſieg'd by <hi>Alaricus</hi> King of the <hi>Goths;</hi> beſides ſundry calamities that happen'd as well in the Eaſt as Weſt; for then was there ſo great a ſlaughter of men, that no Age can parallel from the beginning of the World: All <hi>Europe</hi> ſuffer'd, together with great part of <hi>Aſia</hi> and <hi>Africa;</hi> War, Famine, Drought, and Peſtilence infeſted the whole Uni<g ref="char:EOLhyphen"/>verſe: there was alſo at this time ſo great an Eclipſe of the Sun, that the Stars appear'd at Noon-day.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>418</label> Under <hi>Honorius</hi> another Comet appear'd, which was ſucceeded by an Inſurrection throughout all <hi>Spain</hi> and <hi>Italy.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>443</label> A Comet was ſeen, and Bloud flowed at <hi>Tholouſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>448</label> A Comet ſhining for many days together, there happen'd a terrible Earthquake; alſo <hi>Attyla,</hi> having after a long Siege taken <hi>Aquileia,</hi> gave terrour to <hi>Vincentia, Verona, Millane, Pavia, Baſil, Argentina, Vormatia, Cologne,</hi> and other Cities upon the <hi>Rhine,</hi> till at length he was overthrown in a great Battel in the Campaign Fields.</p>
+            <pb n="6" facs="tcp:98819:5"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>459</label> A Comet and other Prodigies happen'd, after which a Plague de<g ref="char:EOLhyphen"/>ſtroy'd many.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>519</label> A bearded Comet appear'd, which portended an Earthquake, wherein many Cities and Men periſh'd.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>533</label> Another Comet blazed under <hi>Juſtinian,</hi> which was ſucceeded not only by an Earthquake that laſted for ten days, but alſo by a Sedition at <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> and Plague at <hi>Antioch,</hi> and other places.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>550</label> A Comet appear'd in the form of a Lance, ſoon after which <hi>Rome</hi> was taken by <hi>Totila,</hi> and <hi>Franconia</hi> and <hi>Turingia</hi> waſted by the <hi>Huns.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>589</label> A Comet gave warning of the overthrow of the <hi>Perſians</hi> by <hi>Mauritius.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>594</label> A dreadful Comet appear'd, which was attended with many Evils: as for inſtance, Drought, ſcarcity of Corn, the <hi>Lombards</hi> War in <hi>Italy,</hi> and vaſt ſwarms of Locuſts all thereabouts.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>602</label> A moſt prodigious Comet was ſeen, beſides many other ſtrange things, which were the forerunners of the Emperor <hi>Mauritius</hi> his ſlaughter, the future Idolatry of <hi>Mahomet,</hi> and Tyranny of the Biſhop of <hi>Rome,</hi> when <hi>Boniface</hi> the III. (notwithſtanding the Patriarch of <hi>Constantinople</hi>) com<g ref="char:EOLhyphen"/>manded of <hi>Phocas,</hi> that the Church of <hi>Rome</hi> ſhould be call'd and eſteem'd the Head of all other Churches.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>620</label> A Comet appear'd; at which time <hi>Coſroes</hi> King of <hi>Perſia</hi> ſackt <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> and in the year 622. <hi>Mahomed</hi> began. There were likewiſe ſeen ſeveral other Prodigies, as well as horrid Noiſes heard of Thundring, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>633</label> A Comet was ſeen in ſhape of a Spear; about which time the <hi>Sara<g ref="char:EOLhyphen"/>cens</hi> rendred themſelves Maſters of <hi>Damaſcus, Jeruſalem,</hi> and all <hi>Syria.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>674</label> Another great Comet foreran Drought, Peſtilence, and Famine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>675</label> A Comet laſted for 3 whole months, when ſoon after the <hi>Saracens</hi> vio<g ref="char:EOLhyphen"/>lently infeſted the <hi>Roman</hi> Empire,<label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>676</label> coming with a great Navy into <hi>Sicily-Bellarmine</hi> in his Chronology places this Comet in the year 678. and fur<g ref="char:EOLhyphen"/>ther adds, that it did not rain one drop in the 3 following years.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>684</label> A Comet foretold the following Plague, Thunders, Famine, and Inun<g ref="char:EOLhyphen"/>dations.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>729</label> Two Comets were ſeen; and in the ſame year many parts of the World were infected with a Plague, eſpecially <hi>Conſtantinople,</hi> wherein 300000 men loſt their Lives; and ſoon after <hi>Luitprandus</hi> King of the <hi>Lombards</hi> beſieges <hi>Rome;</hi> alſo the <hi>Saracens</hi> ſayling out of <hi>Africa</hi> into <hi>Spain,</hi> poſ<g ref="char:EOLhyphen"/>ſeſt themſelves of part of that Province.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>745</label> A Comet appear'd in <hi>Syria,</hi> and many ſickly Diſtempers followed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>761</label> Two Comets were ſeen, the one in the Eaſt, the other in the Weſt, after which the <hi>Turks</hi> invaded <hi>Armenia.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>763</label> Another Comet was ſucceeded firſt by a great Cold, and afterwards by a Blaſt; alſo the <hi>Turks</hi> increaſe in power.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>814</label> Before the death of <hi>Charles</hi> the Great appear'd a moſt remarkable and dreadful Comet, whereat the Emperor being ſtruck with terror, (fearing leſt it threatned either the loſs of his Kingdom or of his Life) conſulted with <hi>Eginardus</hi> the Philoſopher about it; who being unwilling to in<g ref="char:EOLhyphen"/>creaſe the Emperor's Melancholy, referr'd him to that comfortable place in the Prophet, <hi>A ſignis Coeli nolite timere.</hi> Whereupon the good Emperor replied, <hi>We ought not to fear any thing but that God who is the Creator both of Men and Stars; nevertheleſs are we bound to praiſe his Clemency, who,
+<pb n="7" facs="tcp:98819:5"/>when we offend, admoniſhes us by ſuch Signs.</hi> Others attribute this paſſage to <hi>Ludovicus</hi> the I. the Son of <hi>Charles</hi> the Great.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>818</label> Was a Comet ſeen; as alſo another in the year 830. about which time, ſome of the Heads of the Clergy, in malice to the Emperor <hi>Ludovicus,</hi> for his reproving their inſolent behaviour, excited his own Sons to conſpire againſt him, to take their Father and impriſon him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>840</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>841</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>842</label>
+Three Comets appear'd before the Diſſention and War between <hi>Ludo<g ref="char:EOLhyphen"/>vicus Pius</hi> his Sons, that aroſe about the diviſion of the Kingdom. Then it was alſo that the <hi>Saracens</hi> march'd out of <hi>Africk</hi> into <hi>Italy,</hi> and ſackt <hi>Rome,</hi> in their return from whence they were drowned.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>868</label> A Comet preceeded a terrible Earthquake.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>876</label> A Comet was ſucceeded by a dreadful Plague and Famine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>882</label> A Comet was ſeen before the burning of <hi>Triers.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>900</label> A Comet lighted the Emperor <hi>Arnolphus</hi> to his Grave. Soon after which, the <hi>Huns</hi> and <hi>Saracens</hi> made their Incurſion into <hi>Italy.</hi>
+            </p>
+            <p>A Comet appear'd before the <hi>Hungarians</hi> entred and laid waſte <hi>Germa<g ref="char:EOLhyphen"/>ny.</hi> Alſo about the ſame time, <hi>Berengarius,</hi> Emperor of <hi>Italy,</hi> deprived <hi>Ludovicus</hi> King of <hi>Lombardy</hi> of his Sight.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>906</label> Another Comet, after which followed a prodigious quantity of Hail.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>912</label> More Comets portended the <hi>Hungarians</hi> Invaſion of <hi>Italy,</hi> as alſo the great Inundation of Waters, which happen'd chiefly in <hi>Saxony;</hi> both which things happen'd ſoon after.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>942</label> Comets predicted the enſuing War, Famine, and Mortality of all kinds of living Creatures.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>945</label> In <hi>Italy</hi> a Comet of a wonderful bigneſs was ſeen, which was attended with Plague, Famine, and extraordinary Floods of Water.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>964</label> A Comet and other prodigies were ſeen, portending that Famine which ſoon after followed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>984</label> Was a Comet that preſaged a Famine, Peſtilence, and Earthquake.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1000</label> Comets and other wonderful things appear'd, before <hi>Otho</hi> the III. ſub<g ref="char:EOLhyphen"/>dued the growing Greatneſs of the <hi>Patricii,</hi> and ſubſtituted ſeven Ele<g ref="char:EOLhyphen"/>ctors in their ſtead.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1006</label> A Comet and other things ſupernatural, portended that great Plague and Famine, which raged ſo violently in <hi>England</hi> for 3 years together, that the living were hardly ſufficient to bury the dead, many Towns be<g ref="char:EOLhyphen"/>ing thereby exhauſted of Man, Woman, and Child.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1017</label> A Comet gave warning of the enſuing War and Plague in <hi>Polonia.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1031</label> A Comet preadvertiſed of a Plague, Famine, and great Inundations of Water.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1038</label> A Comet gave light to the Sedition in <hi>Italy.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1043</label> The War in <hi>Hungary</hi> ſucceeded a Comet.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1058</label> The death of the King of <hi>Poland,</hi> and Famine in the ſame Countrey, were preſignifi'd by a Comet.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1066</label> For a conſiderable ſpace together Comets were viſible all the World over; at which time <hi>William</hi> the <hi>Norman</hi> firſt attack'd this Kingdom, which afterwards he conquer'd. Alſo in this ſame year, Pope <hi>Gregory</hi> the VII. or <hi>Hildebrand,</hi> excommunicated <hi>Henry</hi> the IV. and ſubſtituted <hi>Rodolphus</hi> in his place.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1067</label> A Comet foreboded a great Drought, Peſtilence, and Famine.</p>
+            <pb n="8" facs="tcp:98819:6"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1068</label> Another fiery Comet appear'd, with reference to the Evils mention'd in the two former years.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1071</label> Another 4th. Comet was ſeen, and all relating to the Evils before-re<g ref="char:EOLhyphen"/>cited, but more eſpecially to various Seditions which about this time oc<g ref="char:EOLhyphen"/>curr'd: As the trampling on the Emperor's Majeſty by Pope <hi>Hildebrand,</hi> which he had continued to do from the year 1060. till this preſent time 1071. The Rebellion of the <hi>Saxons: Caeſar</hi> made a Petitioner to the <hi>Pope: Rodolphus</hi> elected in oppoſition to <hi>Henry,</hi> but afterwards ſlain: And laſt of all, the inſolent <hi>Pope</hi> himſelf reduced to great Extremities by <hi>Henry</hi> the IV.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1095</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1096</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1097</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1099</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1101</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1106</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1109</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1110</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1112</label>
+In every one of theſe years a ſeveral Comet was ſeen; and about this time it was, that <hi>Conradus</hi> and <hi>Henry</hi> the V. confederated together againſt his Father <hi>Henry</hi> the IV. Then followed the Holy War, which proved very fatal to all Chriſtendom. Hiſtories likewiſe tells us of many other Calamities that happen'd at that time; as Famine, and almoſt an univerſal Plague throughout the World; as likewiſe that unhappy War which the <hi>Pope</hi> waged in <hi>Germany,</hi> wherein arming the <hi>Saxons</hi> againſt <hi>Henry</hi> the V. in five ſeveral Battels much bloud was ſpilt, and many gallant Princes loſt their Lives: nor would his Holineſs be pacifi'd, until the Emperor aboliſh'd the Edict of his Grandfather <hi>Henry</hi> the III. wherein it was eſta<g ref="char:EOLhyphen"/>bliſh'd, that no one ſhould be acknowledg'd for <hi>Pope,</hi> until the Emperor had firſt ratified his Election.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1132</label> A Comet appear'd, and ſoon after the <hi>Swedes</hi> and the <hi>Danes</hi> revolted from the Emperor <hi>Lotharius,</hi> by whom they were afterwards reduced.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1145</label> Another Comet was ſeen, and then a War broke out between the <hi>Saxons, Vandals,</hi> and <hi>Polanders;</hi> alſo the Nobles in <hi>Haſſia</hi> rebell'd.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1211</label> There appear'd a very great Comet, and in the year following the <hi>Tartars</hi> breaking into <hi>Poland</hi> and <hi>Sileſia,</hi> kill'd a great number of men, and cut off one Ear from every man they ſlew, thereby to keep an account how many were ſlain.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1223</label> A Comet blazed in <hi>France,</hi> at which time the Pope being at variance with the Emperor <hi>Frederick</hi> II. the faction of the <hi>Gibellines</hi> took part with the Emperor, and the faction of the <hi>Guelphs</hi> with the Pope.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1240</label> A Comet aroſe, and in the year following the <hi>Tartars</hi> with a vaſt Army made an incurſion into <hi>Poland,</hi> where deſtroying all things with Fire and Sword, they afterwards paſſing through <hi>Moravia</hi> into <hi>Hungary,</hi> made ha<g ref="char:EOLhyphen"/>vock there for three years. At this time alſo there happen'd in <hi>Burgundy</hi> a moſt terrible Earthquake, which removed two Mountains, and over<g ref="char:EOLhyphen"/>whelmed divers men.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1254</label> A Comet was the forerunner of dreadful High winds.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1264</label> There appear'd a Comet with a vaſt long Tail, and preſently after King <hi>Charles</hi> with an Army out of <hi>France,</hi> began his Expedition againſt <hi>Sicily,</hi> where having overcome their King <hi>Manfredus,</hi> he took poſſeſſion of the Kingdom of <hi>Naples.</hi> Two years after this, the <hi>Saracens</hi> marched into <hi>Spain,</hi> where they won and loſt ſeveral great Battels, with much ſlaughter on either ſide. In <hi>Hetruria</hi> alſo great Tumults aroſe; and in the third year after the appearing of the Comet, <hi>Banducar</hi> King of the <hi>Babylonians</hi> and <hi>Aſſyrians,</hi> with a great Army invaded <hi>Armenia,</hi> reduced <hi>Antioch,</hi> and gave a great diſcomfiture to the Chriſtians.</p>
+            <pb n="9" facs="tcp:98819:6"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1298</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1300</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1301</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1304</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1305</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1307</label>
+In each of theſe years Comets appear'd, which amongſt other miſeries foretold the afflictions which the Chriſtians ſhould receive from the <hi>Otto<g ref="char:EOLhyphen"/>man</hi> Family, which began from <hi>Oſman</hi> or <hi>Ottoman,</hi> in the year of Chriſt 1297. as alſo a Peſtilence which had almoſt infected the whole World, in the year 1305.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1312</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1313</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1314</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1315</label>
+Was ſeen a Comet, and ſo alſo in the other four ſucceeding years. Now it was that <hi>Henry Lutzelburgius</hi> was poiſon'd by a Monk: likewiſe a Con<g ref="char:EOLhyphen"/>tention or Civil War did at this time ariſe about chooſing Emperour, which produced great Troubles in <hi>Germany</hi> for the ſpace of eight years; as alſo the greateſt Peſtilence amongſt both Men and Cattel that ever was known, together with ſcarcity of Corn.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1337</label> Two Comets were then to be ſeen: ſoon after began the contention between <hi>Ludovicus Bavarus,</hi> and Pope <hi>Clement</hi> the 6th. The Locuſts alſo were then very pernicious.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1340</label> Appear'd a Comet in the Heavens, which was fulfilled by a Victory that the <hi>Engliſh</hi> obtained over the <hi>French,</hi> of whom ten thouſand were ſlain There was at the ſame time a Plague taging in <hi>Florence,</hi> which deſtroy'd fifteen thouſand.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1347</label> There was another Comet, and ſoon after a general Peſtilence: and ſo in the years 1351. and 1353. in both which years there appear'd Comets with the like ſucceſs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1363</label> 
+               <hi>John Wickliffe</hi> Reformation was introduced by a Comet.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1375</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1380</label> Two Comets portended the private diſcontents of the Princes of <hi>France,</hi> as well as <hi>Bertholdus</hi> the <hi>German</hi> Monk his invention of Guns in the year 1380.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1382</label> A new Comet was ſeen, which no ſooner diſappear'd, but a cruel Plague began.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1390</label> Another Comet was viſible, and attended with unheard-of and incura<g ref="char:EOLhyphen"/>ble diſeaſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1394</label> A Comet appear'd, which the Aſtrologers call <hi>Veru,</hi> a Dart, and eſteem the worſt of all others it denoted the <hi>Italians</hi> Treachery, who then began to ſhake off the yoke of the <hi>German</hi> Empite.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1400</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1401</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1402</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1403</label>
+In every one of theſe years a ſeveral Comet appear'd, and many great misfortunes enſued them: divers new diſeaſes, Rivers dried up, and great Plagues. At the ſame time <hi>Tamerlane,</hi> or <hi>Tamyris</hi> King of the <hi>Scythians</hi> and <hi>Parthians,</hi> with an innumerable Army invaded all <hi>Aſia,</hi> calling himſelf <hi>the wrath of God, and deſolation of the Earth<g ref="char:punc">▪</g>
+               </hi> Now alſo it was that <hi>Ziſca</hi> Captain of the <hi>Huſſes,</hi> fought ſucceſsfully againſt <hi>Sigiſmund</hi> the Emperor.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1433</label> Was beheld a great Comet, after which there was great ſcarcity of Corn for ſix years together.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1434</label> There was both a Comet; and an Eclipſe of the Sun, which was fol<g ref="char:EOLhyphen"/>low'd by ſeveral Wars.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1439</label> A Comet preceded the invention of Printing, which was diſcover'd in the year following.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1444</label> Another Comet flam'd, before the <hi>French</hi> King ſet upon <hi>Helvetia:</hi> at this time <hi>
+                  <g ref="char:V">Ʋ</g>ladiſlaus</hi> K. of <hi>Hungary</hi> was ſlain by <hi>Amurath;</hi> alſo a Sedition broke out in <hi>England:</hi> And in the year 1454 the <hi>Turk</hi> reduc'd <hi>Conſtantinople.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1456</label> A Comet was ſeen, attended by a great Wind and Earthquake: the <hi>Turk</hi> alſo did then poſſeſs himſelf of <hi>Lemnus, Mitylene,</hi> and <hi>Euboea.</hi>
+            </p>
+            <pb n="10" facs="tcp:98819:7"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1457</label> A Comet which they call'd <hi>Nigrum,</hi> did variouſly affect the minds of men: the death of <hi>Alphonſus</hi> King of <hi>Arragon</hi> follow'd it, which em<g ref="char:EOLhyphen"/>broil'd <hi>Aemilia, Sabina, Campania,</hi> and all the Kingdom of <hi>Naples</hi> in a long and grievous War: a Plague follow'd not long after; alſo the <hi>Turk</hi> made himſelf Maſter of <hi>Peloponneſus.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1460</label> A Comet preceded thoſe great Victories of <hi>Mahomet</hi> the II. who in the year of our Lord 1451. reduced two Empires and twelve Kingdoms to his ſubjection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1471</label> A Comet foretold the deaths of ſeveral Princes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1472</label> Two Comets appear'd, which were ſucceeded by ſeveral Wars, and in the year following by an exceſſive unnatural Heat, and violent Plague: at this time <hi>Charles</hi> Duke of <hi>Burgundy</hi> made War upon his Neighbours, which War laſted many years, and was ended by his death. <hi>
+                  <g ref="char:V">Ʋ</g>ſſanus Caſ<g ref="char:EOLhyphen"/>ſanus</hi> King of <hi>Parthia</hi> and <hi>Armenia,</hi> then fought with <hi>Mahomet,</hi> which War ſwept away abundance of men: alſo <hi>Stephanus</hi> the Palatinate of <hi>Moldavia,</hi> gave <hi>Mahomet</hi> a great defeat at the <hi>Danubius.</hi> The <hi>Germans</hi> call'd this Comet a <hi>Peacocks Tail,</hi> and moſt thought it portended the <hi>Bur<g ref="char:EOLhyphen"/>gundian</hi> War.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1475</label> A Comet was conſpicuous before <hi>Charles</hi> of <hi>Burgandy</hi> ſeiz'd upon <hi>Lorain.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1477</label> A Comet blazed, which was the forerunner of ſo hot a Seaſon, that it burnt up not only Corn, but Trees; alſo many great Rivers dried up, and a great Plague followed. At the ſame time <hi>Charles</hi> of <hi>Burgundy</hi> was ſlain by the <hi>Helvetians:</hi> and in this year many great Princes died.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1491</label> A Comet appear'd, and a very unwholſome time follow'd both for Men and Beaſts: alſo the <hi>Turks</hi> poſſeſſed themſelves of part of <hi>Dalmatia</hi> and <hi>Sclavonia.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1500</label> A Comet was ſeen before the <hi>Tartars</hi> devaſtation of <hi>Poland, Muſcovy,</hi> and <hi>Lithuania:</hi> a little after the <hi>Bavarian</hi> War began. There was alſo at this time a raging Famine and Peſtilence.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1506</label> A Comet portended the death of <hi>Philip</hi> King of <hi>Spain,</hi> as alſo the Wars of the Emperor <hi>Maximilian</hi>'s Sons with the <hi>French</hi> and <hi>Venetians;</hi> beſides various Inundations, Winds, and ſcarcity of Corn.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1516</label> 
+               <hi>Luther</hi> (who in the year 1517. wrote againſt Indulgences) his Refor<g ref="char:EOLhyphen"/>mation ſucceeded a Comet.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1523</label> A Comet appear'd, and the Summer following was full of Storms, Earth<g ref="char:EOLhyphen"/>quakes, and great falls of Water.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1527</label> A terrible Comet was ſeen with a long bloudy Tail, at which time the <hi>Turk</hi> waſted <hi>Hungary,</hi> and much hurt was done by the great ſwarms of Locuſts.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1529</label> Four Comets appear'd this year, when ſoon after the <hi>Turk</hi> beſieg'd <hi>Viennal,</hi> and became Maſter of many Cities in <hi>Hungary:</hi> alſo the Sweating-ſickneſs odeſtroy'd many thouſands in <hi>England.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1530</label> Was another Comet; then were many Towns and Villages over<g ref="char:EOLhyphen"/>whelm'd with Water both in <hi>Holland</hi> and <hi>Zealand:</hi> alſo the <hi>Tiber</hi> over<g ref="char:EOLhyphen"/>flow'd <hi>Rome.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1531</label> A Comet portended no leſs then a great ſlaughter of men both in the Eaſt and Weſt: for the <hi>Turk</hi> broke into <hi>Hungary</hi> and <hi>Austria.</hi> King <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> with a great Fleet ſailed into <hi>Denmark,</hi> to recover his Kingdoms:
+<pb n="11" facs="tcp:98819:7"/>The <hi>Helvetian</hi> War began upon the ſcore of Religion, wherein there were two emi<g ref="char:EOLhyphen"/>nent Battels, in the firſt of which <hi>Zuinglius</hi> was ſlain.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1532</label> A terrible Comet was ſeen, at which time the <hi>Turks</hi> making an irruption into <hi>Hun<g ref="char:EOLhyphen"/>gary,</hi> were repell'd by the Chriſtians.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1533</label> A Comet call'd <hi>Xiphias</hi> (from its reſemblance of a Sword) was conſpicuous: after which followed Earthquakes in <hi>Germany,</hi> alterations in the Government of <hi>England,</hi> and a conteſt between <hi>Charles</hi> the V. and the <hi>French,</hi> about the Dukedom of <hi>Millain.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1538</label> A Comet was ſeen of a fiery colour, upon which follow'd an Epidemical Sickneſs in many places.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1539</label> Another Comet was viſible, and in the year following enſued ſo hot a Summer, that it burnt up many Woods, and dried up many Rivers and Fountains.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1541</label> A great Plague, and the Conqueſt of <hi>Buda</hi> by the <hi>Turks,</hi> was ſignify'd by a Comet: alſo <hi>Charles</hi> the V. his unlucky Voyage into <hi>Africa,</hi> wherein many of his Ships and Men were loſt by Storm.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1542</label> After a Comet followed great ſwarms of miſchievous Locuſts: likewiſe the unfor<g ref="char:EOLhyphen"/>tunate Expedition of the Chriſtians againſt the <hi>Turks,</hi> wherein great part of their Forces periſhed by Sickneſs: alſo the Grape was this year ſo ſowr, that no Wine could be drank.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1545</label> A Comet preceded the <hi>Gallick</hi> Perſecution.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1556</label> Another Comet appear'd, in which year many learned and pious men deceaſed: in many parts of <hi>Germany</hi> the Reform'd Church at this time labour'd under great difficulties.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1558</label> A Comet lighted <hi>Charles</hi> the V. into his retirement, when he reſign'd his Empire: alſo in the year 1566. began the War in the <hi>Low-Countries,</hi> upon the account of the <hi>Spaniſh Inquiſition.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1572</label> A new Star was ſeen in <hi>Caſſiopeia</hi>'s Sign, which was by moſt eſteem'd a Comet, in which year the <hi>Pariſian</hi> Nuptials were celebrated with Bloud, inſtead of Wine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1577</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1585</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1596</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1602</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1604</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">A. C. </seg>1607</label> In every one of theſe years were Comets ſeen, although the three laſt were by ſome eminent men eſteem'd only new Stars: they portended the various mutations in <hi>Holland, Hungary, Bohemia,</hi> and <hi>Germany.</hi>
+            </p>
+            <p>And beſides all theſe, the <hi>Blazing-Star</hi> before the late <hi>Civil Wars,</hi> as well as thoſe two dreadful <hi>Comets</hi> before the laſt <hi>Plague,</hi> and <hi>Fire of London,</hi> may (conſidering the preſent ill ſtate of this unhappy Nation, and ſinful People) give us juſt occaſion to fear at leaſt no bet<g ref="char:EOLhyphen"/>ter an Event, after this ſo much a worſe <hi>Comet,</hi> than has ever yet appear'd; unleſs Provi<g ref="char:EOLhyphen"/>dence grants that happy <hi>
+                  <g ref="char:V">Ʋ</g>nion of Proteſtants,</hi> and <hi>Excluſion of Papiſts,</hi> which all good men, that are not ſo themſelves, muſt ever wiſh and pray for.</p>
+            <p>Having thus given you an account of theſe <hi>Comets,</hi> their Hiſtory, Nature, Cauſes, and Effects, according to the moſt commonly receiv'd Opinions; ſo let me now conclude this diſcourſe with ſome ſmall tranſitory Remarques upon this preſent <hi>Comet,</hi> which (by all the relations I have met with) is far the moſt large and terrible that ever yet was ſeen. After it had ſhewn it ſelf in other parts, it began to appear to us here in <hi>England,</hi> on <hi>Friday December</hi> the 10th. about half an hour paſt four in the Afternoon, being of a pale dusky colour, with a prodigious Stream, at leaſt 35. degrees in length: and the Aſtrologers ſay its ſignification cannot be good, becauſe it is purely <hi>Saturuine.</hi> Now for the more difficult and uncertain part, although I ſhall leave that to thoſe who dare undertake it; yet concerning the other more eaſie one, I could not forbear making ſome ſmall obſervation, and collecting ſome conjecture (among the croud of others, for all are no better) from it.</p>
+            <p>At this <hi>Comets</hi> firſt appearing to the view of us near <hi>Buckingham,</hi> there was ſeen an un<g ref="char:EOLhyphen"/>uſual and prodigious ſtream of Light, ariſing out of, or from behind a Cloud at the Horizon, South-Weſt, and darting upward into the <hi>Galaxie</hi> (or Milkie way) towards <hi>Caſſiopeia,</hi> North-Eaſt; viſible, in a clear Sky, as ſoon as the retreating light of the Sun would ſuffer it to be ſo; and moving Northward on the Horizon, till about 8. of the clock it diſappear'd. It then ſeem'd broadeſt at the Horizon, growing ſharper upwards by degrees, like a Pyramid or Sword revers'd. This firſt ſhape of it, though it cauſed ſome doubt in me, yet could not wholly forbid me to think it to proceed from one of thoſe Comets called <hi>Blazing-Stars,</hi> con<g ref="char:EOLhyphen"/>cluding the Star it ſelf to be ſunk below our Horizon, either together with, or preſently after
+<pb n="12" facs="tcp:98819:8"/>the great Luminary. On the <hi>Wedneſday</hi> after this firſt appearance, was the firſt time I could perceive the Star at the bottom of the Light, about five degrees above our Horizon, which though not very viſible, was yet enough to ſhew that I were not miſtaken. But now the ſhape ſeem'd alter'd, the Stream ſharpeſt at the Comet, and broader upwards, (to the won<g ref="char:EOLhyphen"/>der of thoſe who apprehended not the reaſon of it) till at the end of the Tail it yet conti<g ref="char:EOLhyphen"/>nued to appear ſomewhat narrower than in the middle.</p>
+            <p>After this, the circular motion of the Comet being ſlower than that of the Sun, it appear'd higher and higher every Night above the Horizon, declining ſtill more and more Northward in its ſetting; in ſo much that the laſt time I have yet ſeen it, (which was the 4th. of this inſtant <hi>January</hi>) when its firſt appearance after Sun-ſetting was (as I could gueſs without an Inſtrument) above fifty degrees above the Horizon, and its ſetting almoſt Northward.</p>
+            <p>In every obſervation I perceiv'd the Tail or Blaze of light to alter its pointing from the Star, turning every night from the North-Eaſt (as the hand of a Watch) more Eaſtward; and ſtill the higher the Star appear'd, the Tail turning a farther compaſs, till at this time, from pointing North-Eaſt (as it always did) at its firſt appearing in the Evening, before its ſetting the Blaze turns ſo much as to point almoſt South. This to ſome ſeem'd ſtrange, and to me enough to make me, conſidering the turning to be conſtant, and gueſſing (as well as I could without a Globe) at the place of the Sun under our Horizon, eaſily to fancy (and I thought truly) the Blaze to proceed in a direct Line from the Sun, by the Body of the Comet, and ſo to turn its pointing agreeably to the Suns motion, in a direct Line from it. Now this obſervation, whether exactly true or not, yet appear'd to me ſo very near the Truth, as to embolden me to have ſome thoughts, firſt to publiſh it (at leaſt in diſcourſe) for others exa<g ref="char:EOLhyphen"/>mination, who might have better skill and means to do it; and then to improve it into this further conjecture at the Nature and Cauſe of ſuch <hi>Comets,</hi> (if it proves ſo true, as I preſume it is) at leaſt of this preſent <hi>Comet,</hi> (the firſt I ever took ſo much notice of) for the ſalving of theſe <hi>Phaenomena</hi> aforeſaid: Namely, that whereſoever the place of it is, and whatſoever the Matter whereof it is compoſed, it ſeems to be ſuch as is like a Globe of Glaſs, or (it may be) of concrete Water, apt to reflect a gliſtering ſhine to all that behold it in a requiſite Po<g ref="char:EOLhyphen"/>ſition, if not every way: And withall, by its Tranſparency to tranſmit in a direct Line, and in a Blaze from it, thoſe Beams which it receives from ſuch a Luminary as the Sun is. So that the Body of the Comet, by a borrowed light from the Sun, ſomewhat reſembles other Stars: but the Tail, or Blaze, may be not a flame from any burning, (for why then ſhould it turn ſo conſtantly as the Sun directs it?) but only from the Comets being of a pellucid ſubſtance, (which other Stars are not) and ſo tranſmitting thoſe Beams, which ſhine upon the one ſide, in ſuch a Blaze, on the oppoſite ſide. This may alſo afford a Reaſon why the Star ap<g ref="char:EOLhyphen"/>pearing higher towards our Zenith, the Blaze appears ſhorter to us, than it did when lower, and nearer to the Sun.</p>
+            <p>And further, moſt conjectures of its ſignificancy, as well as moſt of the Terrour from the thing it ſelf, (for I blame not thoſe who eſteem it as Gods Sign) proceeding from the appre<g ref="char:EOLhyphen"/>henſions of its dreadful burning, in ſo much as ſome ſeem to have been in care for the whole Machine of the Univerſe, from ſuch vaſt Conflagrations: I leave it to men to conſider ra<g ref="char:EOLhyphen"/>tionally, how both theſe may be abated and allay'd by this opinion, if receiv'd as the moſt probable. In confirmation whereof, I ſeem'd to my ſelf to want nothing, but the obſerva<g ref="char:EOLhyphen"/>tion of others, or my own, of more <hi>Comets,</hi> or of this if it ſhould continue to appear to us ſo long, as to have the Sun-beams fall on the reverſe of it, that ſo I might perceive whether the Blaze be always darted in ſuch a direct Line from the great Light of the World, where<g ref="char:EOLhyphen"/>ſoever it be.</p>
+            <p>But this conjecture ſeeming at firſt new, and ſingular, to my ſelf, and likely to ſeem ſo to others alſo, I could not perſwade my ſelf to think of giving it vent, ſave only in ſome private talk; till by its importunity on my thoughts, it put me on ſearching into thoſe few Books I have, that write of ſuch things: And then I was at laſt ſurprized with ſome ſatisfaction to find, that the famous <hi>Cardan</hi> had the ſame fancy; and that neither did the as famous <hi>Jul. Scaliger</hi> (though ſo much diſpoſed to quarrel with him) diſſent from him in this ſub<g ref="char:EOLhyphen"/>tilty; as whoever thinks it worth the while, may find in <hi>Scaliger</hi>'s 79. <hi>Exereit. de ſubtil. ad Hieron. Cardan.</hi> where <hi>Cardan</hi> alſo to my further ſatisfaction ſupply'd me with that, which I have ſaid before I wanted, for the encouragement of this conjecture: <hi>Averſa ſemper à ſole cauda eſt.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98819:8" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
